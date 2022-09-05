@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://raw.githubusercontent.com/DeveloperAlex0/DeveloperAlex0/source/DeveloperAlex0.png"/></a>
+  <a href="https://avatars.githubusercontent.com/u/100363048?s=250&v=4"/></a>
 </p>
 
 ### Stats 📊
