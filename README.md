@@ -3,7 +3,7 @@
 - Hi, I’m Alex
 - Founder of Solarium Hub
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/751509751845748829)](https://discord.com/users/751509751845748829)
+[![Discord Presence](https://lanyard.cnrad.dev/api/726060695535353896)](https://discord.com/users/726060695535353896)
 
 <img src="https://komarev.com/ghpvc/?username=DeveloperAlex0&label=Numbers%20of%20visitors&color=0b04c7" alt="DeveloperAlex0" />
 
