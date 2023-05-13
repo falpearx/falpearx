@@ -3,7 +3,7 @@
 - Hi, I’m Alex
 - Founder of Solarium Hub
 
-[![Discord Presence](https://lanyard.cnrad.dev//api/726060695535353896?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/726060695535353896)
+[![Discord Presence](https://lanyard.cnrad.dev//api/726060695535353896?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/726060695535353896)
 
 </div>
 <h3My accounts;</h3>
