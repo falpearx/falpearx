@@ -9,7 +9,7 @@
 <h3My accounts;</h3>
 <p align="center">
    <a href="https://discord.com/users/726060695535353896" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://github.com/DeveloperAlex0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white">
+    <a href="https://github.com/falpearx" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
   <a href="https://open.spotify.com/user/do4yp0t5u6qafs4gza2flcwvb" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
